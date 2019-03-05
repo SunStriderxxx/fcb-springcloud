@@ -9,6 +9,7 @@
         <module name="eureka-server" />
         <module name="service-feign" />
         <module name="service-helloworld" />
+        <module name="service-zuul" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
@@ -16,6 +17,7 @@
       <module name="fcb-springcloud" target="1.8" />
       <module name="service-feign" target="1.8" />
       <module name="service-helloworld" target="1.8" />
+      <module name="service-zuul" target="1.8" />
     </bytecodeTargetLevel>
   </component>
 </project>

@@ -6,6 +6,7 @@
       <module fileurl="file://$PROJECT_DIR$/.idea/fcb-springcloud.iml" filepath="$PROJECT_DIR$/.idea/fcb-springcloud.iml" />
       <module fileurl="file://$PROJECT_DIR$/service-feign/service-feign.iml" filepath="$PROJECT_DIR$/service-feign/service-feign.iml" />
       <module fileurl="file://$PROJECT_DIR$/service-helloworld/service-helloworld.iml" filepath="$PROJECT_DIR$/service-helloworld/service-helloworld.iml" />
+      <module fileurl="file://$PROJECT_DIR$/service-zuul/service-zuul.iml" filepath="$PROJECT_DIR$/service-zuul/service-zuul.iml" />
     </modules>
   </component>
 </project>
